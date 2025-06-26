@@ -6,7 +6,7 @@ This is a responsive personal portfolio website designed and developed by **Ayus
 
 - 🖥️ Responsive design for mobile, tablet, and desktop devices
 - 🌐 Smooth scrolling and section transitions
-- 🛠️ Organized sections: About, Skills, Projects, Services, Contact
+- 🛠️ Organized sections: About, Skills, Projects, Contact
 - 📄 Resume download option
 - 🔗 Social media links (LinkedIn, GitHub, Email)
 - ⚡ Lightweight and fast loading
