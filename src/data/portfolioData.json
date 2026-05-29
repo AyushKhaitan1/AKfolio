@@ -1,0 +1,203 @@
+{
+  "personal": {
+    "name": "Ayush Khaitan",
+    "roles": [
+      "Full Stack Developer",
+      "MERN Stack Developer",
+      "AI Enthusiast",
+      "Problem Solver"
+    ],
+    "tagline": "Building scalable web applications and AI-powered solutions that solve real-world problems through clean code, modern technologies, and intuitive user experiences.",
+    "about": "I am a Computer Science Engineering student at SRM Institute of Science and Technology with a strong passion for Full Stack Development, Artificial Intelligence, and Software Engineering.\n\nI enjoy building scalable web applications, solving challenging problems, and learning modern technologies. My experience includes developing full-stack MERN applications, AI-powered solutions, REST APIs, and responsive web interfaces.\n\nI have completed dual internship from Soft Nexis and CodeMore Technology.\n\nI also have industry certifications from organizations such as Deloitte, Gemini, ServiceNow University, IBM SkillsBuild, and Oracle. Through these experiences, I have strengthened my skills in frontend development, backend engineering, databases, authentication, API integration, and machine learning.\n\nMy goal is to become a skilled software engineer capable of building impactful products that improve people's lives through technology.",
+    "location": "New Delhi, India",
+    "email": "ayushkhaitan2004@gmail.com",
+    "phone": "+91 7667785849",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/ayush-khaitan-/",
+      "github": "https://github.com/AyushKhaitan1",
+      "portfolio": "https://a-kfolio.vercel.app/"
+    }
+  },
+  "skills": {
+    "technical": [
+      {
+        "category": "Programming Languages",
+        "skills": [
+          {
+            "name": "Java",
+            "percentage": 85,
+            "color": "#007396"
+          },
+          {
+            "name": "JavaScript",
+            "percentage": 80,
+            "color": "#F7DF1E"
+          },
+          {
+            "name": "SQL",
+            "percentage": 85,
+            "color": "#4479A1"
+          }
+        ]
+      },
+      {
+        "category": "Languages & Frameworks",
+        "skills": [
+          {
+            "name": "React.js",
+            "percentage": 85,
+            "color": "#61DAFB"
+          },
+          {
+            "name": "Node.js",
+            "percentage": 80,
+            "color": "#339933"
+          },
+          {
+            "name": "Express.js",
+            "percentage": 80,
+            "color": "#888888"
+          },
+          {
+            "name": "HTML5",
+            "percentage": 95,
+            "color": "#E34F26"
+          },
+          {
+            "name": "CSS3",
+            "percentage": 90,
+            "color": "#1572B6"
+          },
+          {
+            "name": "Tailwind CSS",
+            "percentage": 85,
+            "color": "#06B6D4"
+          }
+        ]
+      },
+      {
+        "category": "Tools & Technologies",
+        "skills": [
+          {
+            "name": "REST APIs",
+            "percentage": 85,
+            "color": "#FF5733"
+          },
+          {
+            "name": "Git",
+            "percentage": 80,
+            "color": "#F05032"
+          },
+          {
+            "name": "GitHub",
+            "percentage": 85,
+            "color": "#181717"
+          },
+          {
+            "name": "Vercel",
+            "percentage": 90,
+            "color": "#000000"
+          },
+          {
+            "name": "Postman",
+            "percentage": 85,
+            "color": "#FF6C37"
+          }
+        ]
+      },
+      {
+        "category": "Technical Skills",
+        "skills": [
+          {
+            "name": "MongoDB",
+            "percentage": 80,
+            "color": "#47A248"
+          },
+          {
+            "name": "MySQL",
+            "percentage": 85,
+            "color": "#4479A1"
+          }
+        ]
+      }
+    ],
+    "soft": []
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Full Stack Web Development Intern",
+      "company": "Soft Nexis Technologies",
+      "duration": "Apr 2026 – April 2026",
+      "description": "• Built RESTful APIs using Node.js and Express.js with 5+ secure endpoints for task management.\n• Integrated MongoDB Atlas using Mongoose for cloud-based data storage and retrieval.\nImproved application security Rate Limiting, reducing brute-force vulnerability risks by 90%.\nConnected responsive frontend components with backend APIs and tested complete CRUD operations.",
+      "technologies": ["Node.js", "Express.js", "MongoDB", "REST APIs"]
+    },
+    {
+      "id": 2,
+      "role": "Full Stack Web Development Intern",
+      "company": "CodeMore Technology",
+      "duration": "Jan 2026 – Feb 2026",
+      "description": "Developed 3 full-stack web applications, including a task management system and portfolio platform using the MERN stack. Built RESTful APIs with authentication, role-based access control (Admin/User), and input validation for secure client server communication. Implemented password hashing, API rate limiting, and protected routes to improve application security and prevent unauthorized access.",
+      "technologies": ["MERN Stack", "Authentication", "Security"]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Technology in Computer Science Engineering",
+      "institution": "SRM Institute of Science and Technology",
+      "duration": "2023 – 2027",
+      "description": "Currently pursuing B.Tech in Computer Science Engineering with strong focus on Full Stack Development, Data Structures & Algorithms, Databases, and Software Engineering."
+    },
+    {
+      "id": 2,
+      "degree": "Class XII (CBSE)",
+      "institution": "MK DAV Public School",
+      "duration": "2020 – 2022",
+      "description": "Completed higher secondary education with focus on Science."
+    },
+    {
+      "id": 3,
+      "degree": "Class X (ICSE)",
+      "institution": "Sacred Heart School",
+      "duration": "2019 – 2020",
+      "description": "Completed secondary education with strong academic foundation."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "FinSight — Personal Finance & Investment Tracker",
+      "image": "/assets/images/finsight.png",
+      "description": "A full-stack MERN financial dashboard featuring AI forecasting, automated SIP tracking, receipt OCR, expense management, and real-time portfolio analytics.",
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "TypeScript",
+        "Tesseract.js"
+      ],
+      "liveLink": "https://finsight-frontend-mffn.onrender.com",
+      "githubLink": "https://github.com/AyushKhaitan1/FinSight"
+    },
+    {
+      "id": 2,
+      "title": "CampusAtlas — College Discovery Platform",
+      "image": "/assets/images/campusatlas.png",
+      "description": "A modern full-stack platform that helps students discover colleges, compare institutions, view placement statistics, and engage through community discussions.",
+      "technologies": ["React.js", "Node.js", "Express.js", "PostgreSQL"],
+      "liveLink": "https://campus-atlas.onrender.com",
+      "githubLink": "https://github.com/AyushKhaitan1/College-Discovery-Platform"
+    },
+    {
+      "id": 3,
+      "title": "HealthSync — AI Healthcare Chatbot",
+      "image": "/assets/images/healthsync.png",
+      "description": "An AI-powered healthcare chatbot that predicts diseases from user symptoms using machine learning and NLP techniques.",
+      "technologies": ["Python", "Scikit-learn", "Streamlit", "NLP", "Pandas"],
+      "liveLink": "#",
+      "githubLink": "https://github.com/AyushKhaitan1/AI-Mental-healthcare-Chatbot"
+    }
+  ]
+}
