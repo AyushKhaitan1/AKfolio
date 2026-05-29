@@ -15,7 +15,7 @@
     "socials": {
       "linkedin": "https://www.linkedin.com/in/ayush-khaitan-/",
       "github": "https://github.com/AyushKhaitan1",
-      "portfolio": "https://akfolio-virid.vercel.app/"
+      "portfolio": "https://akfolio-new.vercel.app/"
     }
   },
   "skills": {
@@ -129,8 +129,13 @@
       "role": "Full Stack Web Development Intern",
       "company": "Soft Nexis Technologies",
       "duration": "Apr 2026 – April 2026",
-      "description": "• Built RESTful APIs using Node.js and Express.js with 5+ secure endpoints for task management.\n• Integrated MongoDB Atlas using Mongoose for cloud-based data storage and retrieval.\nImproved application security Rate Limiting, reducing brute-force vulnerability risks by 90%.\nConnected responsive frontend components with backend APIs and tested complete CRUD operations.",
-      "technologies": ["Node.js", "Express.js", "MongoDB", "REST APIs"]
+      "description": "Built RESTful APIs using Node.js and Express.js with 5+ secure endpoints for task management.Integrated MongoDB Atlas using Mongoose for cloud-based data storage and retrieval. Improved application security Rate Limiting, reducing brute-force vulnerability risks by 90%. Connected responsive frontend components with backend APIs and tested complete CRUD operations.",
+      "technologies": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs"
+      ]
     },
     {
       "id": 2,
@@ -138,7 +143,11 @@
       "company": "CodeMore Technology",
       "duration": "Jan 2026 – Feb 2026",
       "description": "Developed 3 full-stack web applications, including a task management system and portfolio platform using the MERN stack. Built RESTful APIs with authentication, role-based access control (Admin/User), and input validation for secure client server communication. Implemented password hashing, API rate limiting, and protected routes to improve application security and prevent unauthorized access.",
-      "technologies": ["MERN Stack", "Authentication", "Security"]
+      "technologies": [
+        "MERN Stack",
+        "Authentication",
+        "Security"
+      ]
     }
   ],
   "education": [
@@ -153,7 +162,7 @@
       "id": 2,
       "degree": "Class XII (CBSE)",
       "institution": "MK DAV Public School",
-      "duration": "2020 – 2022",
+      "duration": "2021 – 2022",
       "description": "Completed higher secondary education with focus on Science."
     },
     {
@@ -186,7 +195,12 @@
       "title": "CampusAtlas — College Discovery Platform",
       "image": "/assets/images/campusatlas.png",
       "description": "A modern full-stack platform that helps students discover colleges, compare institutions, view placement statistics, and engage through community discussions.",
-      "technologies": ["React.js", "Node.js", "Express.js", "PostgreSQL"],
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL"
+      ],
       "liveLink": "https://campus-atlas.onrender.com",
       "githubLink": "https://github.com/AyushKhaitan1/College-Discovery-Platform"
     },
@@ -195,7 +209,13 @@
       "title": "HealthSync — AI Healthcare Chatbot",
       "image": "/assets/images/healthsync.png",
       "description": "An AI-powered healthcare chatbot that predicts diseases from user symptoms using machine learning and NLP techniques.",
-      "technologies": ["Python", "Scikit-learn", "Streamlit", "NLP", "Pandas"],
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "Streamlit",
+        "NLP",
+        "Pandas"
+      ],
       "liveLink": "#",
       "githubLink": "https://github.com/AyushKhaitan1/AI-Mental-healthcare-Chatbot"
     }
