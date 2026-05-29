@@ -1,11 +1,11 @@
-# Ayush Khaitan | Full Stack Developer Portfolio
+# Ayush Khaitan Portfolio
 
 Welcome to the source code of my personal portfolio website! This project is a modern, fully responsive, and highly interactive full-stack web application designed to showcase my skills, experience, and projects.
 
 It features a unique "Glassmorphism" dark-mode aesthetic with smooth scroll animations, glowing elements, and a dynamic backend.
 
 ## 🚀 Live Demo
-*(You can add your Vercel deployment link here later)*
+*a-kfolio.vercel.app*
 
 ## ✨ Key Features
 - **Modern UI/UX**: Built entirely without CSS frameworks like Tailwind. Every pixel is styled using custom CSS modules featuring glassmorphism, neon glows, and micro-interactions.
