@@ -5,7 +5,7 @@ Welcome to the source code of my personal portfolio website! This project is a m
 It features a unique "Glassmorphism" dark-mode aesthetic with smooth scroll animations, glowing elements, and a dynamic backend.
 
 ## 🚀 Live Demo
-*a-kfolio.vercel.app*
+*[akfolio-new.vercel.app](https://akfolio-new.vercel.app)*
 
 ## ✨ Key Features
 - **Modern UI/UX**: Built entirely without CSS frameworks like Tailwind. Every pixel is styled using custom CSS modules featuring glassmorphism, neon glows, and micro-interactions.
